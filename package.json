@@ -1,8 +1,8 @@
 {
-  "name": "react-headroom",
+  "name": "react-hide-banner",
   "description": "Hide your header until you need it. React.js port of headroom.js",
-  "version": "2.2.4",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "version": "1.0.0",
+  "author": "Luke Barrett",
   "bugs": {
     "url": "https://github.com/KyleAMathews/react-headroom/issues"
   },
