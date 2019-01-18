@@ -189,7 +189,7 @@ export default class Headroom extends Component {
     this.props.onUnpin()
 
     this.setState({
-      translateY: '-100%',
+      translateY: 0,
       className: 'headroom headroom--unpinned',
       state: 'unpinned',
     })
